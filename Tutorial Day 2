@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Iceland Diaries</title>
+</head>
+<body>
+  <h1>Iceland Diaries</h1>
+  <!-- Clicking the image takes user to Iceland wiki page. -->
+  <a href="https://en.wikipedia.org/wiki/Iceland" target=_blank><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Iceland_satellite.jpg/1920px-Iceland_satellite.jpg" alt="Iceland covered in snow"/></a>
+  <p>Diary Entries from Iceland - Feb 2017</p>
+  <ul>
+    <li>Aurora</li>
+    <li>AirBnB</li>
+    <li>Into the Glacier</li>
+      <ol>
+        <li>Thermal Activity</li>
+        <li>Lodge</li>
+        <li>Cave</li>
+      </ol>
+  </ul>
+  <h2>Aurora</h2>
+  <p>Only saw aurora from plane. The reasons:</p>
+  <ol>
+    <li>Hurricanes</li>
+    <li>Light Pollution</li>
+    <li>Cloud Cover</li>
+  </ol>
+  <a href=https://en.wikipedia.org/wiki/Aurora target=_blank>Learn More</a>
+  <br />
+  <br />
+  <img src=https://upload.wikimedia.org/wikipedia/commons/c/c3/Virmalised_17.03.15.jpg alt="Green Glow in Horizon"/>
+</body> 
+</html>
